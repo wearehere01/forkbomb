@@ -1,3 +1,3 @@
-# forkbomb
+# Fork Bomb
 Fork bomb to run.
 ## THIS WILL DESTROY A COMPUTER RUN THIS ON A VIRTUAL COMPUTER ONLY!!!
